@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "uc12",
-    "host": "127.0.0.1",
-    "dialect": "mariadb"
+    "username": "docente",
+    "password": "CAR@0700",
+    "database": "TIDB",
+    "host": "car-ti.database.windows.net",
+    "dialect": "mssql"
   },
   "test": {
     "username": "root",
